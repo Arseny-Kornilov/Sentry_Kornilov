@@ -19,7 +19,7 @@
 #### ОТВЕТ:
 <img width="2692" height="1600" alt="image" src="https://github.com/user-attachments/assets/77feac85-d724-4272-85f3-ae59e2d7d0a6" />
 
-###  - Создайте python-проект и нажмите Generate sample event для генерации тестового события.
+###  - В качестве решения задание предоставьте скриншот Stack trace из этого события и список событий проекта после нажатия Resolved.
 
 #### ОТВЕТ:
 <img width="1524" height="944" alt="image" src="https://github.com/user-attachments/assets/d0567bce-92b2-4ab5-9cdc-f5802f9f5232" />

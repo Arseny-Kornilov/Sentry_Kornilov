@@ -38,5 +38,6 @@
 ###  - В качестве решения задания пришлите скриншот тела сообщения из оповещения на почте.
 
 #### ОТВЕТ:
-<img width="1172" height="1390" alt="image" src="https://github.com/user-attachments/assets/f50bb0ef-b2f2-4fe8-bc86-dd955c4434be" />
+<img width="1200" height="1572" alt="image" src="https://github.com/user-attachments/assets/1250a47e-c25d-4315-ab94-43dc34fb937f" />
+
 
